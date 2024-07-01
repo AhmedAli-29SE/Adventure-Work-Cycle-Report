@@ -23,5 +23,3 @@ Tool Used:
        Microsoft Excel: Utilized for initial data exploration, cleaning, and simple analysis tasks.
     Data Analysis:
        Power BI: Used for creating interactive dashboards and visualizations to present data insights effectively.
-       
-    Power BI: Used for creating interactive dashboards and visualizations to present data insights effectively.
