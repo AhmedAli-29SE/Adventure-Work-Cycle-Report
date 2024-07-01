@@ -1,6 +1,5 @@
 # Adventure-Work-Cycle-Report
 Power BI Dashboard
-Sure, here's a sample "README" file objective for your project portfolio titled "Adventure Work Cycle Report":
 Adventure Work Cycle Report
 Objective:
 The objective of the "Adventure Work Cycle Report" project is to provide comprehensive, detailed, and actionable insights into the operations and performance of Adventure Works, a fictional company specializing in the manufacture and sale of bicycles and related equipment. This project aims to analyze various aspects of the business, including sales trends, financial performance, customer demographics, and operational efficiency. By leveraging data analysis and visualization techniques, the report will offer a clear understanding of the company's current state and identify opportunities for growth and improvement.
